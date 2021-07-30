@@ -10,7 +10,8 @@ Se observa el envío de datos en formato json
 ![image](https://user-images.githubusercontent.com/66775663/127721267-ff57212e-e1de-40d1-b286-64fb2cf3a455.png)
 
 <br />
-Se observa la base de datos "examentwitter" junto con los documentos <br/>
+Se observa la base de datos "examentwitter" junto con los documentos 
+<br/>
 ![image](https://user-images.githubusercontent.com/66775663/127721508-b45399fa-9ce3-49e4-bd05-f58f5f60b7e9.png)
 <br />
 
