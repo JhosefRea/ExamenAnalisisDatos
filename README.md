@@ -10,9 +10,12 @@ Se observa el envío de datos en formato json
 ![image](https://user-images.githubusercontent.com/66775663/127721267-ff57212e-e1de-40d1-b286-64fb2cf3a455.png)
 
 <br />
-Se observa la base de datos "examentwitter" junto con los documentos
-![image](https://user-images.githubusercontent.com/66775663/127721306-eedc93af-c4c6-41fd-8792-d0a9d3f23919.png)
+Se observa la base de datos "examentwitter" junto con los documentos <br/>
+![image](https://user-images.githubusercontent.com/66775663/127721508-b45399fa-9ce3-49e4-bd05-f58f5f60b7e9.png)
+![image](https://user-images.githubusercontent.com/66775663/127721516-a595fc84-d230-45a5-b637-53c8a600207f.png)
+
 <br/>
+TWITTER.-LOCATION
 
 
 
