@@ -31,12 +31,9 @@ WEB SCRAPING
 Se realizó de la página de "El comercio" de una noticia referente a juegos olímpicos para extraer su información .
 <br>
 ![image](https://user-images.githubusercontent.com/66775663/127724825-8c4b99ef-b5bc-4e2e-9dd1-d4f40297cb76.png)
-
 <br>
-
 TIKTOK Y SQL
 Se creó la base de datos "tiktok" y en esta se alamcenó los datos de obtenido de esa red social .csv
-
 ![image](https://user-images.githubusercontent.com/66775663/127724010-17973ccc-b10e-47a1-8e02-4a5819e6dd89.png)
 <br>
 se creó una base de datos con la GUI de mongodb "mongodb compass" llamada "tikt1" y se subió los datos obtenidos de tiktok
