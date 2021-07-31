@@ -32,6 +32,10 @@ Se realizó de la página de "El comercio" de una noticia referente a juegos ol�
 <br>
 ![image](https://user-images.githubusercontent.com/66775663/127724825-8c4b99ef-b5bc-4e2e-9dd1-d4f40297cb76.png)
 <br>
+Se observa como se tomó el contenido de la etiqueta h1
+![image](https://user-images.githubusercontent.com/66775663/127725313-023e62e1-4c85-472f-a42d-472a54a27490.png)
+<br>
+![image](https://user-images.githubusercontent.com/66775663/127725296-e61d2322-ce26-479d-9d4a-ba951487c082.png)
 TIKTOK Y SQL
 Se creó la base de datos "tiktok" y en esta se alamcenó los datos de obtenido de esa red social .csv
 ![image](https://user-images.githubusercontent.com/66775663/127724010-17973ccc-b10e-47a1-8e02-4a5819e6dd89.png)
