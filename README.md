@@ -23,6 +23,20 @@ Se hizo lo mismo con la palabra reservada locations en la ciudad de Quito, Manta
 ![image](https://user-images.githubusercontent.com/66775663/127722971-c66a0fc8-583f-4f45-a947-3bead47e45c9.png)
 <br/>
 ![image](https://user-images.githubusercontent.com/66775663/127722977-37c35f5b-4c8a-43e6-b09e-1ff1f327b46b.png)
+<br/>
+Se observa las bases de datos con los datos recopilados de cada ciudad
+![image](https://user-images.githubusercontent.com/66775663/127723104-ac76fdd4-87d6-45f9-a05f-af1642470d8a.png)
+
+
+TIKTOK Y SQL
+Se creó la base de datos "tiktok" y en esta se alamcenó los datos de obtenido de esa red social .csv
+
+![image](https://user-images.githubusercontent.com/66775663/127724010-17973ccc-b10e-47a1-8e02-4a5819e6dd89.png)
+<br>
+se creó una base de datos con la GUI de mongodb "mongodb compass" llamada "tikt1"
+![image](https://user-images.githubusercontent.com/66775663/127724243-32be5621-5a61-4ff5-be6e-d1e1796304d7.png)
+<br>
+![image](https://user-images.githubusercontent.com/66775663/127724252-b08ad95c-385d-444e-9159-6d1845cf7ea3.png)
 
 
 
