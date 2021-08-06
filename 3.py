@@ -10,7 +10,7 @@ import couchdb
 
 #variables del destino COUCHDB
 
-URL = 'http://admin:ZlatanIbra11@localhost:5984'
+URL = '00'
 print(URL)
 
 try:
