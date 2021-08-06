@@ -6,10 +6,10 @@ import json
 
 
 ###API ########################
-ckey = "jsXVq4F0pHnKg5XTlczKZXXSo"
-csecret = "K2Cd3VGHuTmQzwXi8rfC4OEnpwcwRR7b77zFyhkETIfex597xz"
-atoken = "1415803093313376263-pAJm8rSmP4nZauHe7GUuu2gDkNH4rx"
-asecret = "cmBzYumPDLczABGyTE00QT6xE7BNzkschFS3za2twkT2b"
+ckey = "777"
+csecret = "K00"
+atoken = "x1"
+asecret = "c0"
 #####################################
 
 class listener(StreamListener):
@@ -34,7 +34,7 @@ auth.set_access_token(atoken, asecret)
 twitterStream = Stream(auth, listener())
 
 '''========couchdb'=========='''
-server = couchdb.Server('http://admin:ZlatanIbra11@localhost:5984/') 
+server = couchdb.Server('1') 
 try:
     db = server.create('twitter4')
 except:
